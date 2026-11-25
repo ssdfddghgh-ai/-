@@ -23,8 +23,8 @@ from aiogram.methods import DeleteBusinessMessages
 BOT_TOKEN = "9156067759:AAFs17xphiFJubs_W7NZIkuFsFrxrrL7JNo"
 BOT_USERNAME = "Ksjdjdksjdhdhdbot"  # без @
 
-# ВЛАДЕЛЕЦ (ты) - 8964812547
-OWNER_ID = 8964812547
+# ВЛАДЕЛЕЦ (ты) - 
+OWNER_ID = 6049472757
 
 # Файл для хранения списка доступа
 ACCESS_FILE = "access_list.json"
