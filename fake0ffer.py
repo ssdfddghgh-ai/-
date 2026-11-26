@@ -18,11 +18,11 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.methods import DeleteBusinessMessages
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "токен бота"
-BOT_USERNAME = "юзернейм бота"  # без @
+BOT_TOKEN = "9284925969:AAFwe9EJGVPqjETV-nglXD4jK_DPRNT9DVs"
+BOT_USERNAME = "Dhjzjshshbot"  # без @
 
 # ВЛАДЕЛЕЦ (ты) - имеет полный доступ
-OWNER_ID = твойTgId
+OWNER_ID = 6049472757
 
 # УЧАСТНИКИ (админы) - могут пользоваться, но не владельцы
 ADMIN_IDS = телеграмid
