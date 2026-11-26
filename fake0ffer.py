@@ -25,7 +25,7 @@ BOT_USERNAME = "Dhjzjshshbot"  # без @
 OWNER_ID = 6049472757
 
 # УЧАСТНИКИ (админы) - могут пользоваться, но не владельцы
-ADMIN_IDS = телеграмid
+ADMIN_IDS = 
 
 # Все, у кого есть доступ к генерации офферов
 ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS
