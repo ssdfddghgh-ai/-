@@ -20,11 +20,11 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.methods import DeleteBusinessMessages
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "9156067759:AAFs17xphiFJubs_W7NZIkuFsFrxrrL7JNo"
-BOT_USERNAME = "Ksjdjdksjdhdhdbot"  # без @
+BOT_TOKEN = "9284925969:AAFwe9EJGVPqjETV-nglXD4jK_DPRNT9DVs"
+BOT_USERNAME = "Dhjzjshshbot"  # без @
 
 # ВЛАДЕЛЕЦ (ты) - 8964812547
-OWNER_ID = твойTgId 8964812547
+OWNER_ID = 6049472757
 
 # Файл для хранения списка доступа
 ACCESS_FILE = "access_list.json"
