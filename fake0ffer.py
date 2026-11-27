@@ -18,14 +18,14 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.methods import DeleteBusinessMessages
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "9284925969:AAFwe9EJGVPqjETV-nglXD4jK_DPRNT9DVs"
-BOT_USERNAME = "Dhjzjshshbot"  # без @
+BOT_TOKEN = "9011259607:AAEE1khx-hQ3gy_8LCJslsmnONIWbbO2HJc"
+BOT_USERNAME = "Dkdjjdkxkxkckvbot"  # без @
 
 # ВЛАДЕЛЕЦ (ты) - имеет полный доступ
 OWNER_ID = 6049472757
 
 # УЧАСТНИКИ (админы) - могут пользоваться, но не владельцы
-ADMIN_IDS = [7158514496]
+ADMIN_IDS = [8956561592]
 
 # Все, у кого есть доступ к генерации офферов
 ALLOWED_IDS = [OWNER_ID] + ADMIN_IDS
